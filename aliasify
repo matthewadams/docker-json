@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+echo "alias json='docker run --rm -i matthewadams12/json json'"
