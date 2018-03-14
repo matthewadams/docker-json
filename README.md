@@ -1,5 +1,5 @@
 # trentm/json Docker Wrapper
-This repo simply wraps http://trentm.com/json in an convenient Docker image.
+This repo simply wraps http://trentm.com/json in a convenient Docker image.
 
 ## Alias
 Creating an alias like
